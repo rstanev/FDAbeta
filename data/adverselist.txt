@@ -1,0 +1,100 @@
+Drug ineffective
+Incorrect drug administration duration
+Dyspnoea
+Headache
+Nausea
+Dizziness
+Extra dose administered
+Diarrhoea
+Pneumonia
+Pain
+Rash
+Arthralgia
+Myocardial infarction
+Off label use
+Fatigue
+Malaise
+Fall
+Death
+Drug effect incomplete
+Type 2 diabetes mellitus
+Expired product administered
+Pyrexia
+Intentional product misuse
+Abdominal pain upper
+Gastrointestinal haemorrhage
+Vomiting
+Pruritus
+Blood pressure increased
+Pulmonary embolism
+Pain in extremity
+Abdominal discomfort
+Depression
+Urticaria
+Somnolence
+Insomnia
+Atrial fibrillation
+Weight decreased
+Muscle spasms
+Incorrect dose administered
+Deep vein thrombosis
+Weight increased
+Asthenia
+Cough
+Cerebrovascular accident
+Hypersensitivity
+Drug hypersensitivity
+Feeling abnormal
+Myalgia
+Nasopharyngitis
+Renal failure acute
+Poor quality drug administered
+Chest pain
+Back pain
+Overdose
+Loss of consciousness
+Dyspepsia
+Constipation
+Anaemia
+Product use issue
+Tremor
+Hypotension
+Inappropriate schedule of drug administration
+Peripheral swelling
+Convulsion
+Infusion related reaction
+Syncope
+Hypertension
+Drug dose omission
+Abdominal pain
+Cardiac disorder
+Throat irritation
+Joint swelling
+Contusion
+Blood glucose increased
+Haemorrhage
+Chest discomfort
+Injection site pain
+Dehydration
+Anxiety
+Swelling face
+Alopecia
+Wrong technique in drug usage process
+Sepsis
+Foreign body
+Muscular weakness
+Drug effect decreased
+Epistaxis
+Arthritis
+Haemoglobin decreased
+Burning sensation
+Medication error
+Product quality issue
+Palpitations
+Erythema
+Chronic obstructive pulmonary disease
+Condition aggravated
+Accidental exposure to product by child
+Urinary tract infection
+Vision blurred
+Cellulitis
